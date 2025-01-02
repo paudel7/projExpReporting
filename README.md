@@ -31,7 +31,7 @@ Please scroll down to know more about this project
 ## 🎯 About The Project
 
 <p align="center">
-  img src="./assets/app-Str.png" alt="Project Structure" width="600">
+  img src="./assets/app-Str.jpg" alt="Project Structure" width="600">
 </p>
 
 This project is an application that will help project finance professionals manage their expenditures in recording and tracking with all administrative control. This might be ideal for projects which are run in partnership fundign and implementation where portion of the expenditure is allocated to different fund sources.
