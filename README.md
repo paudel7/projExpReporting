@@ -3,7 +3,7 @@
 <h3 align="center">This GUI intends to record and track project based expenditure over time and reconcile the records with proper control of database & administration backup.</h3>
 
 <p align="center">
-  <img src="./mainGUI.jpg" alt="Project Banner" width="800">
+  <img src="./assets/mainGUI.jpg" alt="Project Banner" width="800">
 </p>
 
 Please scroll down to know more about this project
@@ -31,46 +31,47 @@ Please scroll down to know more about this project
 ## 🎯 About The Project
 
 <p align="center">
-  <img src="./assets/images/interface.png" alt="Project Interface" width="600">
+  img src="./assets/app-Str.png" alt="Project Structure" width="600">
 </p>
 
-This project is a [project description] that will help [target users] manage their [key features/benefits].
+This project is an application that will help project finance professionals manage their expenditures in recording and tracking with all administrative control. This might be ideal for projects which are run in partnership fundign and implementation where portion of the expenditure is allocated to different fund sources.
 
 ## ✨ Demo-Preview
 
-Here is demo of the final results I got in this project:
+Here are some demo we can get in this project:<p>
 
-<p align="center">
-  <img src="./assets/images/dashboard.png" alt="Project Dashboard" width="600">
-</p>
+<img src="./assets/dataStr.jpg" alt="Project Data" width="600" ><p>
+
+
+ <img src="./assets/sqlQuery.jpg" alt="Project Data" width="600" ><p>
+
+ 
+<img src="./assets/editEntry.jpg" alt="Project Data" width="600"><p>
+  
+ <img src="./assets/export.jpg" alt="Project Data" width="600"><p>
+  
+ <img src="./assets/entryLog.jpg" alt="Project Data" width="600"><p>
+  
+ <img src="./assets/searchResult.jpg" alt="Project Data" width="600">
+ </p>
+
 
 ## ⚡ Workflow
 
 <p align="center">
-  <img src="./assets/images/workflow1.png" alt="Project Workflow 1" width="600">
+  <img src="./assets/images/workflow1.png" alt="NA" width="600">
 </p>
 
 [Workflow description 1]
 
-<p align="center">
-  <img src="./assets/images/workflow2.png" alt="Project Workflow 2" width="600">
-</p>
-
-[Workflow description 2]
 
 ## 📚 References
 
 <p align="center">
-  <img src="./assets/images/reference1.png" alt="Reference Material 1" width="600">
+  <img src="./assets/images/reference1.png" alt="NA" width="600">
 </p>
 
 [Reference description 1]
-
-<p align="center">
-  <img src="./assets/images/reference2.png" alt="Reference Material 2" width="600">
-</p>
-
-[Reference description 2]
 
 ## 📋 Table of Contents
 - [Demo-Preview](#-demo-preview)
@@ -140,7 +141,7 @@ Distributed under the [License Type] License. See `LICENSE.txt` for more informa
 Here is a list of some of the resources I found helpful and would like to give credit to:
 
 * [Resource 1](link-to-resource-1)
-* [Resource 2](link-to-resource-2)
+
 
 <p align="right">(<a href="#-table-of-contents">back to top</a>)</p>
 
